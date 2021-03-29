@@ -1,5 +1,5 @@
 {
-  "title": "title",
+  "title": "liqian's gitbook",
   "author": "",
   "plugins": [
     "-lunr",
@@ -15,7 +15,8 @@
     "splitter",
     "todo",
     "copy-code-button",
-    "expandable-chapters-small"
+    "expandable-chapters-small",
+    "page-treeview"
   ],
   "pluginsConfig": {
     "search-pro": {
@@ -45,6 +46,11 @@
     },
     "bibtex-indexed-cite": {
       "path": "/"
+    },
+    "page-treeview": {
+      "copyright": "Copyright &#169; liqian821",
+      "minHeaderCount": "2",
+      "minHeaderDeep": "6"
     }
   }
 }

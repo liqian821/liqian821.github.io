@@ -41,7 +41,7 @@
       "copyright": "By [liqian821](https://github.com/liqian821)",
       "markdown": true,
       "update_label": "此页面修订于：",
-      "update_format": "YYYY-MM-DD HH:mm:ss"
+      "update_format": "YYYY-MM-DD HH:mm:ssZZZ"
     },
     "bibtex-indexed-cite": {
       "path": "/"

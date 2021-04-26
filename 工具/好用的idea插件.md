@@ -24,7 +24,35 @@ git工具箱，提供各种git操作。
 
 
 
-![image-20210409222529646](好用的idea插件.assets/image-20210409222529646.png)
+# PlantUML integration
+
+### 一、插件介绍
+
+PlantUML在Idea中的插件，PlantUML是一种高效绘制UML图的工具，官网：https://plantuml.com/zh/
+
+### 二、安装方式
+
+idea中下载，其中PlantUML Parser可以转换类图为PlantUML，PlantUML Syntax Check可以检查语法
+
+![image-20210426224807751](好用的idea插件.assets/image-20210426224807751.png)
+
+### 三、使用方式
+
+1. 下载Graphviz dot
+
+官网：http://www.graphviz.org/
+
+使用homebrew安装：
+
+``` bash
+brew install graphviz
+```
+
+速度有点慢。。
+
+1. 配置Graphviz dot路径
+
+![image-20210426225644769](好用的idea插件.assets/image-20210426225644769.png)
 
 ## 插件名称
 

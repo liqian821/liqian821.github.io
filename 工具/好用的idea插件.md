@@ -48,11 +48,27 @@ idea中下载，其中PlantUML Parser可以转换类图为PlantUML，PlantUML Sy
 brew install graphviz
 ```
 
-速度有点慢。。
+2. 配置Graphviz dot路径
 
-1. 配置Graphviz dot路径
+* 执行which dot获取dot路径
+
+```bash
+which dot
+/usr/local/bin/dot
+```
+
+* 在bash_profile中export环境变量
+
+``` bash
+export GRAPHVIZ_DOT=/usr/local/bin/dot
+```
+
+* source环境变量
+* 在IDEA的plantuml界面点击设置，勾选 Use GRAPHVIZ_DOT
 
 ![image-20210426225644769](好用的idea插件.assets/image-20210426225644769.png)
+
+* 重启IDEA后生效。
 
 ## 插件名称
 

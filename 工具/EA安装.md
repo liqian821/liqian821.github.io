@@ -1,5 +1,7 @@
 # 在Mac下安装Enterprise Architect
 
+参考：https://sparxsystems.com/enterprise_architect_user_guide/15.2/product_information/enterprise_architect_macos.html
+
 ## 安装wine
 
 ### 安装homebrew
@@ -7,8 +9,6 @@
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-
-
 
 ### 安装XQuartz
 

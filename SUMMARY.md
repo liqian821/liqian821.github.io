@@ -16,7 +16,7 @@
 
 ## travis学习
 
-* [1-1](./travis学习/1-1.md)
+* [github配置travis](./travis学习/github配置travis.md)
 
 ## 读书笔记
 

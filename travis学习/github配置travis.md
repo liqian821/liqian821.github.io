@@ -3,7 +3,7 @@ https://github.com/marketplace/travis-ci
 
 
 
-安装gitbook失败
+### 安装gitbook失败
 
 ```bash
 info: installing plugin "todo" 
@@ -25,3 +25,6 @@ Error: Missing required argument #1
 The command "gitbook install" failed and exited with 1 during .
 ```
 
+解决方法：
+
+book.json文件中将todo插件删除。
